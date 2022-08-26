@@ -1,7 +1,5 @@
 size(400,400);
 
-System.out.println("Hello! My name is Navi");
-
 //shell
 fill(#895B29);
 ellipse(200,260,140,130);
