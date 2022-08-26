@@ -1,10 +1,22 @@
+//base
 size(400,400);
+noStroke();
+background(#DBF3FA);
+fill(#B7E9F7);
+rect(0,100,399,100);
+fill(#92DFF3);
+rect(0,200,399,100);
+fill(#7AD7F0);
+rect(0,300,399,100);
 
 //shell
+stroke(10);
+stroke(#5C4033);
 fill(#895B29);
 ellipse(200,260,140,130);
 
 //tortle
+stroke(#000000);
 fill(#7AE87E);
 strokeWeight(5);
 
@@ -40,3 +52,4 @@ ellipse(265,185,7,7);
 ellipse(147,180,7,7);
 ellipse(132,170,7,7);
 ellipse(132,185,7,7);
+
