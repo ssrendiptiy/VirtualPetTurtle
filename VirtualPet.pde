@@ -3,11 +3,11 @@ size(400,400);
 noStroke();
 background(#DBF3FA);
 fill(#B7E9F7);
-rect(0,100,399,100);
+rect(0,100,400,100);
 fill(#92DFF3);
-rect(0,200,399,100);
+rect(0,200,400,100);
 fill(#7AD7F0);
-rect(0,300,399,100);
+rect(0,300,400,100);
 
 //shell
 stroke(10);
